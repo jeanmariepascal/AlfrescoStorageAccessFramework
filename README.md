@@ -7,7 +7,7 @@ This repository contains samples to demonstrate how to use the [Alfresco Mobile 
 Provider
 -------
 
-* The goal of this project is to demonstrates how to implement a custom Document Provider based on [Alfresco Mobile SDK](https://www.alfresco.com/develop/mobile) and the Android 4.4 [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider.html).
+* [Provider](AlfrescoStorageAccessFramework/tree/master/Provider) demonstrates how to implement a custom Document Provider based on [Alfresco Mobile SDK](https://www.alfresco.com/develop/mobile) and the Android 4.4 [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider.html).
 
 
 Client
@@ -25,7 +25,7 @@ License
 
 ### Alfresco Android SDK
 
-> Copyright © 2014 Alfresco Software, Ltd. and others. 
+> Copyright ï¿½ 2014 Alfresco Software, Ltd. and others. 
 
 > The Alfresco Android SDK is distributed under the [Apache 2 License](http://www.apache.org/licenses/LICENSE-2.0.html).
 
