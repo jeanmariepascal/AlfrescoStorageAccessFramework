@@ -7,7 +7,7 @@ This repository contains samples to demonstrate how to use the [Alfresco Mobile 
 Provider
 -------
 
-* [Provider](AlfrescoStorageAccessFramework/tree/master/Provider) demonstrates how to implement a custom Document Provider based on [Alfresco Mobile SDK](https://www.alfresco.com/develop/mobile) and the Android 4.4 [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider.html).
+* [Provider](https://github.com/jeanmariepascal/AlfrescoStorageAccessFramework/tree/master/Provider) demonstrates how to implement a custom Document Provider based on [Alfresco Mobile SDK](https://www.alfresco.com/develop/mobile) and the Android 4.4 [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider.html).
 
 
 Client
